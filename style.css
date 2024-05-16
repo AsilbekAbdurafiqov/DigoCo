@@ -1,0 +1,132 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body
+{
+    background: rgb(84, 3, 160);
+}
+
+.icon
+{
+    font-size: 40px;
+    color: white;
+}
+
+.menu
+{
+    font-size: 40px;
+    background: white;
+    color: rgb(84, 3, 160);
+    border-radius: 5px;
+}
+
+button
+{
+    background: transparent;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+header
+{
+    display: flex;
+    padding-left: 150px;
+    gap: 350px;
+}
+
+.logo
+{
+    color: white;
+    padding-top: 50px;
+}
+
+.navigation
+{
+    padding-top: 60px;
+}
+
+.navigation ul
+{
+    display: flex;
+    gap: 50px;
+}
+
+.navigation ul li
+{
+    list-style-type: none;
+}
+
+.navigation ul li a
+{
+    color: white;
+    text-decoration: none;
+}
+
+.sbm
+{
+    display: flex;
+    gap: 10px;
+    padding-top: 50px;
+}
+
+.big-text
+{
+    padding-left: 150px;
+    padding-top: 150px;
+    display: flex;
+    gap: 200px;
+}
+
+.big-text h1
+{
+    font-size: 50px;
+    color: white;
+    padding-top: 20px;
+}
+
+span
+{
+    font-size: 30px;
+    color: white;
+}
+
+.sbm2
+{
+    display: flex;
+    padding-top: 50px;
+}
+
+.sbm2 i
+{
+    margin-left: 50px;
+}
+
+.sbm2 p
+{
+    margin-left: 10px;
+    margin-top: 5px;
+    color: white;
+}
+
+.p
+{
+    padding-top: 50px;
+}
+
+.mini2
+{
+    padding-top: 50px;
+}
+
+.mini2 img
+{
+    width: 500px;
+    border-radius: 20px;
+}
